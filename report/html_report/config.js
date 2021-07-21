@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1024px.png",
-        "test": "../bitmaps_test/20210721-205605/Entire_document_1024px.png",
+        "test": "../bitmaps_test/20210721-210232/Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -21,16 +21,16 @@ report({
             "height": -17
           },
           "misMatchPercentage": "5.70",
-          "analysisTime": 108
+          "analysisTime": 52
         },
-        "diffImage": "../bitmaps_test/20210721-205605/failed_diff_Entire_document_1024px.png"
+        "diffImage": "../bitmaps_test/20210721-210232/failed_diff_Entire_document_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_720px.png",
-        "test": "../bitmaps_test/20210721-205605/Entire_document_720px.png",
+        "test": "../bitmaps_test/20210721-210232/Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -49,14 +49,14 @@ report({
           "misMatchPercentage": "6.27",
           "analysisTime": 132
         },
-        "diffImage": "../bitmaps_test/20210721-205605/failed_diff_Entire_document_720px.png"
+        "diffImage": "../bitmaps_test/20210721-210232/failed_diff_Entire_document_720px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/Big_search_bar_data-qa_big_1024px.png",
-        "test": "../bitmaps_test/20210721-205605/Big_search_bar_data-qa_big_1024px.png",
+        "test": "../bitmaps_test/20210721-210232/Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -73,7 +73,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.80",
-          "analysisTime": 62
+          "analysisTime": 65
         }
       },
       "status": "pass"
@@ -81,7 +81,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Big_search_bar_data-qa_big_720px.png",
-        "test": "../bitmaps_test/20210721-205605/Big_search_bar_data-qa_big_720px.png",
+        "test": "../bitmaps_test/20210721-210232/Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -98,7 +98,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Small_search_bar_data-qa_small_1024px.png",
-        "test": "../bitmaps_test/20210721-205605/Small_search_bar_data-qa_small_1024px.png",
+        "test": "../bitmaps_test/20210721-210232/Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -115,16 +115,16 @@ report({
             "height": 0
           },
           "misMatchPercentage": "1.14",
-          "analysisTime": 49
+          "analysisTime": 22
         },
-        "diffImage": "../bitmaps_test/20210721-205605/failed_diff_Small_search_bar_data-qa_small_1024px.png"
+        "diffImage": "../bitmaps_test/20210721-210232/failed_diff_Small_search_bar_data-qa_small_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/Small_search_bar_data-qa_small_720px.png",
-        "test": "../bitmaps_test/20210721-205605/Small_search_bar_data-qa_small_720px.png",
+        "test": "../bitmaps_test/20210721-210232/Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -141,9 +141,9 @@ report({
             "height": 0
           },
           "misMatchPercentage": "1.64",
-          "analysisTime": 20
+          "analysisTime": 47
         },
-        "diffImage": "../bitmaps_test/20210721-205605/failed_diff_Small_search_bar_data-qa_small_720px.png"
+        "diffImage": "../bitmaps_test/20210721-210232/failed_diff_Small_search_bar_data-qa_small_720px.png"
       },
       "status": "fail"
     }
